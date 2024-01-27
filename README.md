@@ -2,26 +2,22 @@
 
 My Primary Intent of building this portfolio is to showcase my potential employers a chance to explore my work to get a better view of my thought process , problem solving approach , coding styles . I sometimes also tend to write my own views in the comments approach , debates are always welcome.
 
-### Markdown
+### Meet Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+This Section is to introduce myself
 
 ```markdown
-Syntax highlighted code block
-# Header 1
-- Bulleted
-- List
 
-1. Numbered
-2. List
+With a rich background spanning various industries such as capital markets, retail, print media, and healthcare, I've navigated a spectrum of technologies, ranging from legacy systems to advanced AI/ML solutions. Fueled by curiosity, I actively delve into the technology landscape, comprehend business applications, conduct data analysis, collaborate seamlessly with stakeholders, and execute technology deployments. My passion lies in developing a Data Strategy for business
+to exploit the full potential it has , It includes from storage strategies , Data engineering , and on-demand analytics and AI.
 
-**Bold** and _Italic_ and `Code` text
+My below projects will be linked to my public google colab repositories or linkedin blogs.
+Connect with me in linkedin 
 
-[Link](url) and ![Image](src)
+[Link](https://www.linkedin.com/in/syed-asif-ahmed-86709369/)
+or
+mail me at [link](syedasif.responds@gmail.com)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## Header 2
 ### Header 3
