@@ -6,10 +6,12 @@ My Primary Intent of building this portfolio is to showcase my potential employe
 ### This Section is to introduce myself
 
 
-With a rich background spanning various industries such as capital markets, retail, print media, and healthcare, I've navigated a spectrum of technologies, ranging from legacy systems to advanced AI/ML solutions. Fueled by curiosity, I actively delve into the technology landscape, comprehend business applications, conduct data analysis, collaborate seamlessly with stakeholders, and execute technology deployments. My passion lies in developing a Data Strategy for business
-to exploit the full potential it has , It includes from storage strategies , Data engineering , and on-demand analytics and AI.
+Having traversed diverse industries, including capital markets, retail, print media, and healthcare, I possess a comprehensive background in navigating a spectrum of technologies. From legacy systems to advanced AI/ML solutions, my journey has been fueled by curiosity. Actively engaging with the technology landscape, I not only comprehend business applications but also conduct rigorous data analysis. Seamless collaboration with stakeholders and the execution of technology deployments are integral aspects of my approach.
 
-My below projects will be linked to my public google colab repositories or linkedin blogs.
+My passion lies in crafting robust Data Strategies for businesses to harness their full potential. This encompasses everything from formulating storage strategies to delving into data engineering, and facilitating on-demand analytics and AI applications.
+
+Currently pursuing my MBA at the Haskayne School of Business, University of Calgary. I am dedicated to blending my  experiences with business acumen. This academic journey is complementing my professional insights, aiming to transform me into a well-rounded technology leader.
+
 Connect with me in linkedin 
 
 [Mylinkedin](https://www.linkedin.com/in/syed-asif-ahmed-86709369/)
