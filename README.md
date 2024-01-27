@@ -1,6 +1,6 @@
 ## Project PortFolio
 
-My Primary Intent of building this portfolio is to showcase my potential employers a chance to explore my work to get a better view of my thought process , problem solving approach , coding styles . I sometimes also tend to write my own views in the comments approach , debates are always welcome.
+My Primary Intent of building this portfolio is to showcase my potential employers a chance to explore my work to get a better view of my thought process , problem solving approach , coding styles .
 
 ## Meet Me
 ### This Section is to introduce myself
