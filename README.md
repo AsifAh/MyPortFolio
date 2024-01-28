@@ -1,4 +1,4 @@
-## Project PortFolio
+## My PortFolio
 
 My Primary Intent of building this portfolio is to showcase my potential employers a chance to explore my work to get a better view of my thought process , problem solving approach , coding styles .
 
