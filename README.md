@@ -1,6 +1,6 @@
 ## My PortFolio
 
-My Primary Intent of building this portfolio is to showcase my potential employers a chance to explore my work to get a better view of my technical Prowess , approach for problem solving , coding styles .
+My Primary Intent of building this portfolio is to showcase my potential employers a chance to know me and explore my work to get a better view of my technical Prowess , approach for problem solving , coding styles .
 
 ## Meet Me
 ### This Section is to introduce myself
@@ -26,9 +26,11 @@ Connect with me in linkedin
 or
 mail me at [Gmail](syedasif.responds@gmail.com)
 
-## Python Refresher
-### Refresher, Oops, API - flask & FAST
+## Coding
+### Python Refresher
+### Refresher, Oops, API - flask & FAST - Am giving my public colab notebook to view 
 
 Find the notebook in below google colab link 
 
 [pythonRef](https://colab.research.google.com/drive/1PgxHPh_QJkoJPqD5a8PBJTh_rILOuNWA?authuser=2#scrollTo=yaLsVIIOKS5p)
+[pythonRef](https://colab.research.google.com/drive/1PgxHPh_QJkoJPqD5a8PBJTh_rILOuNWA#offline=true&sandboxMode=true)
