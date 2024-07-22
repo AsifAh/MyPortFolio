@@ -32,5 +32,5 @@ mail me at [Gmail](syedasif.responds@gmail.com)
 
 Find the notebook in below google colab link 
 
-[pythonRef](https://colab.research.google.com/drive/1PgxHPh_QJkoJPqD5a8PBJTh_rILOuNWA?authuser=2#scrollTo=yaLsVIIOKS5p)
+[pythonRef](https://colab.research.google.com/drive/1PgxHPh_QJkoJPqD5a8PBJTh_rILOuNWA?usp=sharing)
 [pythonRef](https://colab.research.google.com/drive/1PgxHPh_QJkoJPqD5a8PBJTh_rILOuNWA#offline=true&sandboxMode=true)
