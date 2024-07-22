@@ -6,7 +6,7 @@ My Primary Intent of building this portfolio is to showcase my potential employe
 ### This Section is to introduce myself
 
 
-Hello! My name is [Your Name], and I hail from the vibrant city of Chennai, located in the southern part of India near the sea shore. My journey with technology began when Windows XP was launched. I quickly became the go-to expert in my neighborhood for installing operating systems and software (NO, not the cracked ones in CD-ROM, 😉). This early fascination with computers laid the foundation for my future career.
+Hello! My name is Syed, and I hail from the vibrant city of Chennai, located in the southern part of India near the sea shore of Bay of Bengal. My journey with technology began when Windows XP was launched. I quickly became the go-to expert in my neighborhood for installing operating systems and software (NO, not the cracked ones in CD-ROM, 😉). This early fascination with computers laid the foundation for my future career.
 
 In school, I delved into Oracle RDBMS and Visual Basics, which ignited my passion for database management and programming. My engineering studies expanded my knowledge base further, covering data structures, object-oriented programming, database management systems, and computer networks.
 
@@ -32,13 +32,3 @@ mail me at [Gmail](syedasif.responds@gmail.com)
 Find the notebook in below google colab link 
 
 [pythonRef](https://colab.research.google.com/drive/1PgxHPh_QJkoJPqD5a8PBJTh_rILOuNWA?authuser=2#scrollTo=yaLsVIIOKS5p)
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AsifAh/MyPortFolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
