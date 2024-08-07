@@ -3,11 +3,11 @@
 My Primary Intent of building this portfolio is to showcase my potential employers a chance to know me and explore my work to get a better view of my technical Prowess , approach for problem solving , coding styles .
 
 # My Certifications
-CDMP - Certified Data Management Professional - DAMA
-SDS - Senior Data Scientist - Data Science Council of America
-PAHM - Professional Associate Health Care Management - AHIP
+CDMP - Certified Data Management Professional - DAMA <br>
+SDS - Senior Data Scientist - Data Science Council of America <br>
+PAHM - Professional Associate Health Care Management - AHIP <br>
 
-Three More in Progress.
+Three More in Progress. <br>
 
 ## Meet Me
 ### This Section is to introduce myself
